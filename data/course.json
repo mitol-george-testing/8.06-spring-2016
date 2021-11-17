@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1bed4811-85f7-da5b-2f9c-1556911a4fc4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Quantum Physics III",
+  "course_description": "8.06 is the third course in the three-sequence physics undergraduate Quantum Mechanics curriculum. By the end of this course, you will be able to interpret and analyze a wide range of quantum mechanical systems using both exact analytic techniques and various approximation methods. This course will introduce some of the important model systems studied in contemporary physics, including two-dimensional electron systems, the fine structure of Hydrogen, lasers, and particle scattering.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.06",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
